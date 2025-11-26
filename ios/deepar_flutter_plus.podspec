@@ -3,7 +3,7 @@
 # Run `pod lib lint deepar.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'deepar_flutter_plus'
+  s.name             = 'deepar_flutter_perfect'
   s.version          = '0.2.0'
   s.summary          = 'Enhanced Flutter SDK for DeepAR with extended functionality.'
   s.description      = <<-DESC
